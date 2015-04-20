@@ -2,6 +2,7 @@
 
 /**
  * Task score - 100%
+ * Complexity - O(N)
  * @param $start
  * @param $end
  * @param $step
