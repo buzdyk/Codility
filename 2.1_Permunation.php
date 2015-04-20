@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @todo improve perfomance, fails on large numbers
+ * @todo improve performance, fails on large numbers
  * Score - 90%
  * Complexity - O(N) or O(N * log(N))
  * Checks if the array is permutation
