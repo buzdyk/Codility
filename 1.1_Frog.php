@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Task score - 100%
+ * Score - 100%
  * Complexity - O(N)
  * @param $start
  * @param $end
