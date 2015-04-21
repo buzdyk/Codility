@@ -2,7 +2,6 @@
 
 /**
  * @todo improve performance
- * 
  * Score - 77%
  * Complexity - N*M
  * @param $n

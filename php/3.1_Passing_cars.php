@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Score - 100%
+ * Complexity - O(N)
  * returns the number of pairs of passing cars,
  * −1 if the number of pairs of passing cars exceeds 1,000,000,000.
  * @param array $cars - zeros = east, ones = west
